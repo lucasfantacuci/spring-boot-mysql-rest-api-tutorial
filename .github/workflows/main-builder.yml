@@ -1,4 +1,4 @@
-name: Pull Request Builder
+name: Main Builder
 on: 
   push:
     branches: master
