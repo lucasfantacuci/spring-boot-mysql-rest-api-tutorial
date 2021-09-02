@@ -11,4 +11,4 @@ jobs:
           java-version: '8'
           distribution: 'adopt'
       - name: Build and test
-        run: ./gradlew clean test
+        run: mvn clean install
